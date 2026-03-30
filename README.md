@@ -1,4 +1,4 @@
-# ANKUR KOHLI - PORFOLIO
+# ANKUR KOHLI - PORTFOLIO
 
 Welcome to my portfolio! This repository showcases my skills, projects, and experience in **Artificial Intelligence, Machine Learning, Reinforcement Learning, Deep Learning, Robotics, Computer Visio, & Frontend Developement**. I'm a Aspiring Software Engineer passionate about **AI, ML, RL, DL, Robotics, CV, Frontend Development**.
 
